@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLiteToMSExcel</string>
+    <string name="last_name">Last Name</string>
+    <string name="city">City</string>
+    <string name="salary">Salary</string>
+    <string name="submit">Submit</string>
+    <string name="sqlite_to_txt_file">SQLite To Txt File</string>
+    <string name="first_name">First Name</string>
+    <string name="report">Report</string>
+
+</resources>
